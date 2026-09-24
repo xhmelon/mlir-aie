@@ -1,0 +1,5 @@
+{
+  "name": "IRON / MLIR-AIE",
+  "user": "ubuntu",
+  "install": "bash .cursor/install.sh"
+}
